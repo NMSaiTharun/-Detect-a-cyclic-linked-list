@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\Detect a cyclic linked list.exe
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\Detect a cyclic linked list.deps.json
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\Detect a cyclic linked list.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\Detect a cyclic linked list.dll
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\ref\Detect a cyclic linked list.dll
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\bin\Debug\net6.0\Detect a cyclic linked list.pdb
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.dll
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\ref\Detect a cyclic linked list.dll
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.pdb
+C:\Users\Lenovo\Desktop\Detect a cyclic linked list\obj\Debug\net6.0\Detect a cyclic linked list.genruntimeconfig.cache
